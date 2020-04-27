@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'Conv_GothaProLig';
+	src:url('../fonts/GothaProLig.ttf') format('truetype'),
+        url('../fonts/GothaProLig.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Gotham Pro";
+	src: url('../fonts/GothaProMed.ttf') format('truetype'),
+	     url('../fonts/GothaProMed.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+
+    
